@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+<img width="426" height="211" alt="passwd" src="https://github.com/user-attachments/assets/60b6b3c7-e2ab-4254-a81c-e459f5ff30a8" />
